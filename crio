@@ -22,3 +22,7 @@ reload crio
 ```
 systemctl restart crio
 ```
+
+```
+ crictl pull --auth "creds_in_base64" registry.example.com/nginx:latest
+```
