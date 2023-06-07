@@ -1,0 +1,24 @@
+/var/lib/kubelet/config.json
+```
+{
+        "auths": {
+                "dockerhub-01.com": {
+                        "auth": "base64"
+                },
+                "dockerhub-02.com": {
+                        "auth": "base64"
+                },
+                "docker.io": {
+                        "auth": "base64"
+                }
+        }
+}
+```
+set `global_auth_file` in /etc/crio/crio.conf
+```
+sed -i 's|^.*global_auth_file.*$|global_auth_file = "/var/lib/kubelet/config.json"|g' /etc/crio/crio.conf
+```
+reload crio
+```
+systemctl restart crio
+```
