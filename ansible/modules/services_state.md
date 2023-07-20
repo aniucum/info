@@ -15,7 +15,7 @@
     permanent: yes
     state: enabled
   loop:
-    - 9100/http
-  when: services_state.ansible_facts.services["firewalld.service"].state == running
+    - 9100/tcp
+  when: services_state.ansible_facts.services["firewalld.service"].state == 'running'
   notify: reload firewalld
 ```
