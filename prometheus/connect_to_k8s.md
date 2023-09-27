@@ -4,3 +4,7 @@
 
 - https://www.linkedin.com/pulse/monitoring-kubernetes-prometheus-outside-cluster-steven-acreman/
    - https://gist.github.com/sacreman/b61266d2ec52cf3a1af7c278d9d93450
+
+- https://banzaicloud.com/blog/prometheus-federation/
+
+- https://github.com/ITAndreHoch/Prometheus-federation/blob/master/README.md
