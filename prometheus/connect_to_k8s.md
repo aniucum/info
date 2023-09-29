@@ -52,3 +52,9 @@ Prometheus getting 403 forbidden from kubernetes api in GKE
 https://stackoverflow.com/questions/67574256/prometheus-getting-403-forbidden-from-kubernetes-api-in-gke
 
 ---
+
+metrics-server
+```
+https://artifacthub.io/packages/helm/metrics-server/metrics-server
+https://github.com/kubernetes-sigs/metrics-server/issues/196
+```
