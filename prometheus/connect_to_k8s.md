@@ -59,3 +59,5 @@ https://artifacthub.io/packages/helm/metrics-server/metrics-server
 https://github.com/kubernetes-sigs/metrics-server/issues/196
 https://particule.io/en/blog/kubeadm-metrics-server/
 ```
+
+https://www.kancloud.cn/panxin20/notes/2678510

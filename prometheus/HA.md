@@ -1,0 +1,1 @@
+https://gcore.com/learning/ha-kubernetes-monitoring-using-prometheus-and-thanos/
