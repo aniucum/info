@@ -6,3 +6,6 @@ Retain only the past 500 MB
 ```
 journalctl --vacuum-size=500M
 ```
+```
+journalctl -f -b --no-pager -u etcd
+```
