@@ -18,3 +18,7 @@ firewall-cmd --permanent --add-port=30000-32767/tcp
 firewall-cmd --add-masquerade --permanent
 ```
 https://github.com/coreos/coreos-kubernetes/blob/master/Documentation/kubernetes-networking.md
+
+
+### calico 
+- https://stackoverflow.com/questions/67701010/kubernetes-cluster-with-firewall-enabled-on-centoscalico-not-working
