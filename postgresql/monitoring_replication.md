@@ -1,0 +1,2 @@
+- https://pgdash.io/blog/monitoring-postgres-replication.html 
+- https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Flevelup.gitconnected.com%2Fmonitoring-postgresql-replication-slots-and-sending-email-alerts-using-python-73669ac86d2c
