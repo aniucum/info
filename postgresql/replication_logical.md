@@ -1,0 +1,1 @@
+https://edu.postgrespro.ru/dba3/dba3_06_replica_logical.html
