@@ -47,3 +47,6 @@ printf '%s\n' "${PWD##*/}" # to print to stdout
 printf '%q\n' "${PWD##*/}" # to print to stdout, quoted for use as shell input
                            # ...useful to make hidden characters readable.
 ```
+
+### Bash For Loop Array: Iterate Through Array Values
+- https://www.cyberciti.biz/faq/bash-for-loop-array/
