@@ -1,0 +1,1 @@
+openssl x509 -in aaa_cert.pem -noout -text
