@@ -3,7 +3,8 @@
 ```
 psql -U postgres -c "select client_addr, state, sent_lsn, write_lsn, flush_lsn, replay_lsn from pg_stat_replication;"
 ```
-
+### Кластер PostgreSQL
+https://elma365.com/ru/help/platform/configure-postgresql.html
 
 ### patroni
 ```
