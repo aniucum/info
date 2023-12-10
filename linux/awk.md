@@ -1,0 +1,1 @@
+- https://linuxgeeks.ru/awk.htm
