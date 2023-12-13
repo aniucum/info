@@ -1,0 +1,1 @@
+https://ansible-for-network-engineers.readthedocs.io/ru/latest/book/06_playbooks/jinja2_filters.html#to-nice-yaml
